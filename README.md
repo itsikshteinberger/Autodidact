@@ -25,6 +25,10 @@ __Notes__<br/>
 
 <br/>
 
+![](https://github.com/itsikshteinberger/Autodidact/blob/master/Courses%20Notes/Courses%20Notes/Images/ezgif.com-gif-maker%20(2).gif)
+<br/>
+<br/>
+
 ```
  _   _    _    ____  ____ __    __     _     _____    _    ____  ___  _  ____  ___  _   ____    __ 
 | |_| |  /_\  | __ \| __ \\ \  / /    | |   | ____|  /_\  | __ \|   \| ||_  _||   \| | /  __|_ |  |
