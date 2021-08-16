@@ -11,7 +11,7 @@ You also can to choose a start and end date to make things more organized<br/><b
 <img src="https://github.com/itsikshteinberger/Autodidact/blob/master/Courses%20Notes/Courses%20Notes/Images/SS1.png" alt="drawing" width="60%" height="50%"/>
 <br/><br/>Once you have added the course you will be able to see it on the main screen.<br/><br/>
 <img src="https://github.com/itsikshteinberger/Autodidact/blob/master/Courses%20Notes/Courses%20Notes/Images/SS2.jpg" alt="drawing" width="60%" height="50%"/><br/><br/>
-Clicking on the course will reveal the course details, in addition, you have the option to delay because you learned what you wanted today, go to the course website according to the link you entered and delete the course in case you completed it / gave up on it (:unamused:).<br/><br/>
+Clicking on the course will reveal the course details, in addition, you have the option to click on "Completed" because you learned what you wanted today, go to the course website according to the link you entered and delete the course in case you completed it / gave up on it (:unamused:).<br/><br/>
 <img src="https://github.com/itsikshteinberger/Autodidact/blob/master/Courses%20Notes/Courses%20Notes/Images/SS3.jpg" alt="drawing" width="60%" height="50%"/>
 ## Installation and running
 The installation process is super simple, no need for a database or external software other than Visual Studio.<br/>
