@@ -20,7 +20,7 @@ git clone https://github.com/itsikshteinberger/Autodidact
 ```
 After installation you can run through Visual Studio or just open the [executable file](https://github.com/itsikshteinberger/Autodidact/blob/master/Courses%20Notes/Courses%20Notes/bin/Debug/netcoreapp3.1/Courses%20Notes.exe).<br/><br/>
 __Notes__<br/>
-* The app does not close you access to courses after the end date or before the start date, the app as a whole is designed to help you arrange all the courses within one software.
+* The app does not close your access to courses after the end date or before the start date, the app as a whole is designed to help you arrange all the courses within one software.
 * The link can also be a local path from your local machine - not necessarily a link from the internet.
 
 <br/>
