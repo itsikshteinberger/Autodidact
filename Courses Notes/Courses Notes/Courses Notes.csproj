@@ -1,0 +1,33 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Courses_Notes</RootNamespace>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="calendar.png" />
+    <None Remove="fire.png" />
+    <None Remove="home.png" />
+    <None Remove="homeColor.png" />
+    <None Remove="icons8-graduation-hat-60.png" />
+    <None Remove="Images\fireUncolor.png" />
+    <None Remove="plus.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Data.SQLite" Version="1.0.114.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="calendar.png" />
+    <Resource Include="fire.png" />
+    <Resource Include="home.png" />
+    <Resource Include="homeColor.png" />
+    <Resource Include="icons8-graduation-hat-60.png" />
+    <Resource Include="plus.png" />
+  </ItemGroup>
+
+</Project>

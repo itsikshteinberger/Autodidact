@@ -1,0 +1,41 @@
+C:\Users\User\source\repos\Courses Notes\Courses Notes\obj\Debug\netcoreapp3.1\Courses Notes.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Courses Notes\Courses Notes\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\User\source\repos\Courses Notes\Courses Notes\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\User\source\repos\Courses Notes\Courses Notes\obj\Debug\netcoreapp3.1\Courses Notes_MarkupCompile.cache
+C:\Users\User\source\repos\Courses Notes\Courses Notes\obj\Debug\netcoreapp3.1\Courses Notes_MarkupCompile.lref
+C:\Users\User\source\repos\Courses Notes\Courses Notes\bin\Debug\netcoreapp3.1\Courses Notes.exe
+C:\Users\User\source\repos\Courses Notes\Courses Notes\bin\Debug\netcoreapp3.1\Courses Notes.deps.json
+C:\Users\User\source\repos\Courses Notes\Courses Notes\bin\Debug\netcoreapp3.1\Courses Notes.runtimeconfig.json
+C:\Users\User\source\repos\Courses Notes\Courses Notes\bin\Debug\netcoreapp3.1\Courses Notes.runtimeconfig.dev.json
+C:\Users\User\source\repos\Courses Notes\Courses Notes\bin\Debug\netcoreapp3.1\Courses Notes.dll
+C:\Users\User\source\repos\Courses Notes\Courses Notes\bin\Debug\netcoreapp3.1\Courses Notes.pdb
+C:\Users\User\source\repos\Courses Notes\Courses Notes\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\User\source\repos\Courses Notes\Courses Notes\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\User\source\repos\Courses Notes\Courses Notes\bin\Debug\netcoreapp3.1\System.Data.SQLite.dll
+C:\Users\User\source\repos\Courses Notes\Courses Notes\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\User\source\repos\Courses Notes\Courses Notes\bin\Debug\netcoreapp3.1\System.Data.SQLite.EF6.dll
+C:\Users\User\source\repos\Courses Notes\Courses Notes\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\User\source\repos\Courses Notes\Courses Notes\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\User\source\repos\Courses Notes\Courses Notes\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\User\source\repos\Courses Notes\Courses Notes\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\User\source\repos\Courses Notes\Courses Notes\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\User\source\repos\Courses Notes\Courses Notes\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\User\source\repos\Courses Notes\Courses Notes\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\User\source\repos\Courses Notes\Courses Notes\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\source\repos\Courses Notes\Courses Notes\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\source\repos\Courses Notes\Courses Notes\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\User\source\repos\Courses Notes\Courses Notes\obj\Debug\netcoreapp3.1\Courses Notes.g.resources
+C:\Users\User\source\repos\Courses Notes\Courses Notes\obj\Debug\netcoreapp3.1\Courses Notes.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Courses Notes\Courses Notes\obj\Debug\netcoreapp3.1\Courses Notes.AssemblyInfo.cs
+C:\Users\User\source\repos\Courses Notes\Courses Notes\obj\Debug\netcoreapp3.1\Courses Notes.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Courses Notes\Courses Notes\obj\Debug\netcoreapp3.1\Courses Notes.csproj.CopyComplete
+C:\Users\User\source\repos\Courses Notes\Courses Notes\obj\Debug\netcoreapp3.1\Courses Notes.dll
+C:\Users\User\source\repos\Courses Notes\Courses Notes\obj\Debug\netcoreapp3.1\Courses Notes.pdb
+C:\Users\User\source\repos\Courses Notes\Courses Notes\obj\Debug\netcoreapp3.1\Courses Notes.genruntimeconfig.cache
+C:\Users\User\source\repos\Courses Notes\Courses Notes\obj\Debug\netcoreapp3.1\Courses.g.cs
+C:\Users\User\source\repos\Courses Notes\Courses Notes\obj\Debug\netcoreapp3.1\Courses.baml
+C:\Users\User\source\repos\Courses Notes\Courses Notes\obj\Debug\netcoreapp3.1\Details.g.cs
+C:\Users\User\source\repos\Courses Notes\Courses Notes\obj\Debug\netcoreapp3.1\Details.baml
+C:\Users\User\source\repos\Courses Notes\Courses Notes\obj\Debug\netcoreapp3.1\Add.g.cs
+C:\Users\User\source\repos\Courses Notes\Courses Notes\obj\Debug\netcoreapp3.1\Add.baml
+C:\Users\User\source\repos\Courses Notes\Courses Notes\obj\Debug\netcoreapp3.1\App.baml

@@ -1,0 +1,36 @@
+﻿<Window x:Class="Courses_Notes.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Courses_Notes"
+        mc:Ignorable="d"
+        Icon="/icons8-graduation-hat-60.png"
+        Title="Autodidact" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="80"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+        <StackPanel Grid.Row="0" Orientation="Horizontal" Background="#FF5C605C" Margin="0,0,0,10" OverridesDefaultStyle="True">
+            <Button Style="{StaticResource Nav}"  Click="home">
+                <Button.Template>
+                    <ControlTemplate>
+                        <Image x:Name="HomeImg" Source="/home.png"/>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+            <Button x:Name="Addbtn" Style="{StaticResource Nav}" Click="add">
+                <Button.Template>
+                    <ControlTemplate>
+                        <Image x:Name="AddImg" Source="/plus.png"/>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+        </StackPanel>
+        <ScrollViewer VerticalScrollBarVisibility="Auto"  Grid.Row="1">
+            <Frame ContentRendered="myFrame_ContentRendered" x:Name="frame"></Frame>    
+        </ScrollViewer>
+        
+    </Grid>
+</Window>
